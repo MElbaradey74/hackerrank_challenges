@@ -1,2 +1,1 @@
-# hackerrank_challenges
--codes for solving problems from hackerrank
+#codes for solving problems from hackerrank
